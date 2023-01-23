@@ -29,7 +29,7 @@
     font-family: 'Noto Sans', sans-serif;
 }
 
-
+/* DONE */
 /* FIXME add a rule in your media query to make sure the card does not spill over on medium and smaller sizes. Add your.crad-tranlsate class into here and don't translate by anything */
 @media screen and (max-width: 768px) {
     .text-over{
